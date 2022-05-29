@@ -52,7 +52,7 @@ resume_social_links:
 #  resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_instagram_url:         "https://www.instagram.com/arymbe/"
-  resume_website_url:           "https://arymbe.com"
+ resume_website_url:           "https://arymbe.github.io"
 resume_print_social_links:      true
 
 # Design settings
