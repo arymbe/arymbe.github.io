@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="132a8e21-5449-417e-aee9-d7226f7f3e07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.sass-cache/6575dd32f2009eeea516112c1064459e2b782792/_base.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/6575dd32f2009eeea516112c1064459e2b782792/_layout.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/6575dd32f2009eeea516112c1064459e2b782792/_mixins.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/6575dd32f2009eeea516112c1064459e2b782792/_normalize.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/6575dd32f2009eeea516112c1064459e2b782792/_resume.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/6575dd32f2009eeea516112c1064459e2b782792/_variables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/avatar1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avatar1.jpg" afterDir="false" />
+    <list default="true" id="132a8e21-5449-417e-aee9-d7226f7f3e07" name="Default Changelist" comment="second commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/icon-links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/experience.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/experience.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +42,16 @@
       <option name="presentableId" value="Default" />
       <updated>1653821772040</updated>
       <workItem from="1653821773516" duration="101000" />
-      <workItem from="1653822034522" duration="2262000" />
+      <workItem from="1653822034522" duration="4194000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit!">
+      <created>1653824889846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653824889846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +70,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="second commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit!" />
   </component>
 </project>
