@@ -31,17 +31,19 @@
     <li>Monitored and analyzed computing costs on CSC's HPC</li>
     </ul>
 
-- project: SIKaP
-  role: Product Manager
-  duration: Jan 2019 &mdash; Dec 2021
+
+- project: Analyzing Annual Performance Evaluation
+  role: Data Analyst
+  duration: Dec 2021 &mdash; Jan 2022
   associated: National Public Procurement Agency of Indonesia
-  skills: "-"
-  url: "https://sikap.lkpp.go.id"
-  description: Sistem Informasi Kinerja Penyedia (SIKaP) is a vendor managemet system.
-    I led releasing two major versions of SIKaP, 2.0 and 3.0.
-    Some major features are vendor registration, vendor and buyer assessment, public search for vendors, transparency of change history and data verification, and integration data with several ministries, such as the Ministry of Finance, Investment Coordinating Board, and Ministry of Public Works and Public Housing.
-    In addition, on those two versions, I introduced uniformity of user interface and user experience to make it easier for users to use applications made by NPPA.
-    Then, I also initiated a friendly system for disabled persons regarding appearance and use.
+  skills: R Language
+  #url: "#"
+  description: This project aims to measure employee performance.
+    NPPA has three types of employees, namely individual consultants, consulting firms, and other services.
+    With an annual performance evaluation that is analyzed in-depth like this, upper management can gain insight to determine what actions need to be taken to manage employees in the future.
+    This project was purely my own initiative without any orders from others because I saw that there was no good scoring and evaluation system at that time.
+    These assessment parameters will be continuously updated according to the work environment.
+
 
 - project: Predicting Graffiti Using City Layout
   role: Data Analyst
@@ -52,3 +54,65 @@
   description: This project analyzes what city properties correlate with graffiti generation in Vancouver, CA.
     This project consists of three people.
     My responsibility in this project was to explore the relationship and correlation between variables so that we could focus on the causes of graffiti further.
+
+
+- project: SIKaP
+  role: Product Manager
+  duration: Jan 2019 &mdash; Dec 2021
+  associated: National Public Procurement Agency of Indonesia
+  skills: "-"
+  url: "https://sikap.lkpp.go.id"
+  description: Sistem Informasi Kinerja Penyedia (SIKaP) is a vendor managemet system.
+    I led releasing two major versions of SIKaP, 2.0 and 3.0.
+    Some major features are vendor registration, vendor and buyer assessment, public search for vendors, transparency of change history and data verification, and integration data with several ministries, such as the Ministry of Finance, Investment Coordinating Board, and Ministry of Public Works and Public Housing.
+    <br><br>
+    This project is the most challenging for me. Why challenging? Because there were many things to be done in technical and non-technical aspects.
+    For example, vendor registration features.
+    <br><br>
+    <li>Technical</li>
+    <dt>- Merging two vendor databases was difficult since the two databases have different characteristics. It isn't easy because one database allows one vendor (unique NPWP) to have a different username, and the other doesn't allow that</dt>
+    <dt>- Centralized vendor registration to one app from 346 apps was complex because it needed to update all of the apps, so there wasn't redundancy in vendor registration</dt>
+    <br>
+    <li>Non-Technical</li>
+    <dt>- There are substitution of directors that made this feature has to be represented again and convinced the new director that the feature was essential for procurement</dt>
+    <dt>- Changing the old vendor registration to the simple one is difficult since it is needed to explain thoroughly that the newer flow is better than the old one</dt>
+    <br>
+    <li>Solution</li>
+    <dt>- Detailed the pros and cons to the upper management and team</dt>
+    <dt>- Lot of discussion between teams so that the idea is the best one that we can implement</dt>
+    <dt>- Two times a week, discussed the features, from the technicality to the non-technical</dt>
+    <dt>- Detailed task management using GitLab board</dt>
+
+- project: Uniform User Experience
+  role: Product Manager
+  duration: Jan 2019 &mdash; Dec 2021
+  associated: National Public Procurement Agency of Indonesia
+  skills: "-"
+  #url: "#"
+  description: This project aims to make it easier for users to use the system created by the NPPA.
+    In addition, in this project, I also focused on making the system friendly to people with disabilities.
+    I started this project because I noticed difficulties for users when using some of the existing systems with different experiences.
+    Meanwhile, unifying all these systems is very difficult because several systems have different requirements, and the complexity is quite difficult.
+    Therefore, this project needs to be implemented in every system so that the system can implement the experience offered by this project.
+
+
+- project: Inaproc
+  role: Product Manager
+  duration: Mar 2018 &mdash; Sep 2018
+  associated: National Public Procurement Agency of Indonesia
+  skills: "-"
+  url: "https://inaproc.id"
+  description: Inaproc is a system that contains all the contents of Indonesia's goods/services procurement.
+    Apart from that, one of its major features is to impose sanctions on vendors by blacklisting them.
+    I led a team of systems analysts, programmers, and technical writers.
+    The challenge for this product is implementing standard regulations into applications.
+    The next challenge is to make a product that is easy to use.
+    If the user has difficulty, it is feared that the user will make an error in displaying this black list.
+    <br><br>
+    Moreover, the users who broadcast this black list are officials whose positions are already very high in their respective agencies.
+    Consequently, an error in the blacklist may prevent the vendor from participating in government procurement throughout Indonesia, and legal action may be taken against the user.
+    <br><br>
+    The solution offered is to match a user-friendly display for these officials.
+    High-ranking officials owned one of the social media that I knew at that time was Facebook.
+    So, I adopted a look and experience similar to Facebook.
+    The following solution is to communicate with users to get a system that suits their needs.
