@@ -44,6 +44,24 @@
     This project was purely my own initiative without any orders from others because I saw that there was no good scoring and evaluation system at that time.
     These assessment parameters will be continuously updated according to the work environment.
 
+- project: Predicting New Particle Formation (NPF) in Forest
+  role: Data Scientist
+  duration: Oct 2021 &mdash; Dec 2021
+  associated: MSc. Data Science, University of Helsinki
+  skills: R Language
+  #url: "#"
+  description: This project aims to figuring out when the NPF Events occur and classifying the NPF events.
+    This project consists of two people and use R language.
+    My responsibilities were finding the correlation between variables, tried the dimension reduction, tested classifiers, and estimated classifiers.
+    The methods that are used were
+    <ul class="resume-item-list">
+    <li>Created a correlation between variables</li>
+    <li>Analyzed correlation between all datasets (mean and std.)</li>
+    <li>Used Principal Component Analysis for the dimension reduction due to the nature of how it derives its factors</li>
+    <li>Tested classifiers using discriminative (Support Vector Machine) and generative (Naive Bayes)</li>
+    <li>Estimated the performance of the classifiers using two metrics":" Accuracy and perplexity</li>
+    <li>Made the estimates more generalizable to the test set using k-fold cross validation</li>
+    </ul>
 
 - project: Predicting Graffiti Using City Layout
   role: Data Analyst
