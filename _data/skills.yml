@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: ITIL 2011 v3 Foundation Certification
+  description: ITIL v3 Foundation introduced candidates to the key elements, concepts and terminology found in ITIL <a href="https://www.axelos.com/certifications/itil/itil-v3-foundation-certification">[link]</a>.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Tools
+  description: Microsoft Office, Jira, Slack, Miro, Gitlab/Github, Tableau
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Technical
+  description: SQL, Python, R, Amazon Web Service, HTML5/CSS, C++, C
+
+- skill: Non-Technical
+  description: Communication, Teamwork, Leadership, Adaptability, Lateral thinking
+
+
+- skill: Language
+  description: Bahasa Indonesia (Native), English (Business), German (Elementary)

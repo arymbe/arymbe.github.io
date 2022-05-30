@@ -4,8 +4,9 @@
   year: 2021 &mdash; present
   awards:
     - award: <b>Current GPA</b> 3.83
-    - award: <b>Projects</b> Predicting graffiti using city layout (Python), Predicting traffic in Guangzhou China (Python), Predicting NPF in a forest (R), News topic classification (PyTorch), and Accidental injuries project UX design.
-    - award: <b>Report Paper</b> Blockchain Application in the Government and Sustainable Energy Sector <a href="https://1drv.ms/b/s!Ahyk20FLTup5ibIZqeeoeLslzU2GEg">[link]</a>
+    - award: <b>Specialization Studies</b> Machine Learning, Statistical Data Science, and Human-Computer Interaction
+    - award: <b>Projects</b> Predicting graffiti using city layout (Python) <a href="https://cowkeyman.github.io/PredictingGraffitiUsingCityLayouts/">[link]</a>, Predicting traffic in Guangzhou China (Python), Predicting NPF in a forest (R), News topic classification (PyTorch), and Accidental injuries project UX design.
+    - award: <b>Report Paper</b> Blockchain Application in the Government and Sustainable Energy Sector <a href="https://1drv.ms/b/s!Ahyk20FLTup5ibIZqeeoeLslzU2GEg">[pdf]</a>
   summary:
 
 - degree: Bachelor of Informatics Engineering
@@ -13,5 +14,7 @@
   year: 2010 &mdash; 2015
   awards:
     - award: <b>Current GPA</b> 3.20
+    - award: <b>Specialization Studies</b> Intelligent Computing and Visualization
+    - award: <b>Projects</b> Finding Crime and Disaster based on tweet (Python), Predicting Service Center 311 in Vancouver (Python), and Recognition of Motor Vehicle-License Plate Using Template Matching (Matlab).
     - award: <b>Thesis</b> Settlement Scheduling No-Wait Flow Shop Use the Metaheuristic Method Genetic Algorithm and Tabu Search (Matlab) (Grade A) <a href="https://1drv.ms/b/s!Ahyk20FLTup5gr5I2LVqDarl9zWvZQ">[pdf]</a>
   summary:

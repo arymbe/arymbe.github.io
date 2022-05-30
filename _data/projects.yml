@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Predicting Traffic in Guangzhou, China
+  role: Data Scientist & Data Engineer
+  duration: Jan 2022 &mdash; May 2022
+  associated: University of Helsinki
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: The delivery product is a model that gives good enough accuracy with less cost, including the run time of the model's training.
+    This project consists of four people. My tasks were
+    <ul class="resume-item-list">
+    <li>Explored the causes of traffic from variables that were given</li>
+    <li>Tried several models that could give good enough accuracy</li>
+    <li>Created a data pipeline on Amazon Web Service</li>
+    <li>Monitored and analyzed computing costs between models</li>
+    </ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+- project: Predicting Graffiti Using City Layout
+  role: Data Analyst
+  duration: Sep 2021 &mdash; Oct 2021
+  associated: University of Helsinki
+  url: "https://cowkeyman.github.io/PredictingGraffitiUsingCityLayouts/"
+  description: This project analyzes what city properties correlate with graffiti generation in Vancouver, CA.
+    This project consists of three people.
+    My task on this project was to explore the relationship and correlation between variables so that we can focus on the causes of graffiti further.
+
