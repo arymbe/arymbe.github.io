@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Ari Mohamad Barkhah"
+resume_name:                    "Ari Barkhah"
 resume_title:                   "Product Manager"
 
 # used for the contact button in _layouts/resume.html

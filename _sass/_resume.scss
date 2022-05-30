@@ -154,9 +154,19 @@
       font-size: 1rem;
     }
   }
+    .resume-item-tag {
+      font-size: 0.1rem;
+      margin: 0 0 .75rem;
+      line-height: 0.5;
+
+      &.award-title {
+        font-size: 1rem;
+      }
+  }
 
   .resume-item-title,
   .resume-item-details,
+  .resume-item-tag,
   .resume-item-copy,
   .resume-item-list {
     a {
@@ -224,11 +234,20 @@
       font-size: 12px;
       margin: 0 0 .75rem;
       line-height: .7em;
-      font-style:italic;
+      font-style: italic;
 
       &.award-title {
         font-size: 11px;
       }
+    }
+      .resume-item-tag {
+        font-size: 4px;
+        margin: 0 0 .75rem;
+        line-height: .4em;
+
+        &.award-title {
+          font-size: 11px;
+        }
     }
   }
 }

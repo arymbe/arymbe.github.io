@@ -4,10 +4,11 @@
 - project: Predicting Traffic in Guangzhou, China
   role: Data Scientist & Data Engineer
   duration: Jan 2022 &mdash; May 2022
-  associated: University of Helsinki
+  associated: MSc. Data Science, University of Helsinki
+  skills: Python
   # url: "#"
   description: The delivery product is a model that gives good enough accuracy with less cost, including the run time of the model's training.
-    This project consists of four people. My tasks were
+    This project consists of four people. My responsibilities were
     <ul class="resume-item-list">
     <li>Explored the causes of traffic from variables that were given</li>
     <li>Tried several models that could give good enough accuracy</li>
@@ -15,13 +16,39 @@
     <li>Monitored and analyzed computing costs between models</li>
     </ul>
 
+- project: News Topic Classification
+  role: Data Engineer
+  duration: Feb 2022 &mdash; Apr 2022
+  associated: MSc. Data Science, University of Helsinki
+  skills: PyTorch
+  #url: "#"
+  description: This project's purpose is to classify multi-label news topics on each document.
+    Each document is in XML format.
+    This project consists of three people.
+    My responsibilities were
+    <ul class="resume-item-list">
+    <li>Created a pipeline to process the classification on CSC's High-Performance Computing (HPC)</li>
+    <li>Monitored and analyzed computing costs on CSC's HPC</li>
+    </ul>
+
+- project: SIKaP
+  role: Product Manager
+  duration: Jan 2019 &mdash; Dec 2021
+  associated: National Public Procurement Agency of Indonesia
+  skills: "-"
+  url: "https://sikap.lkpp.go.id"
+  description: Sistem Informasi Kinerja Penyedia (SIKaP) is a vendor managemet system.
+    I led releasing two major versions of SIKaP, 2.0 and 3.0.
+    Some major features are vendor registration, vendor and buyer assessment, public search for vendors, transparency of change history and data verification, and integration data with several ministries, such as the Ministry of Finance, Investment Coordinating Board, and Ministry of Public Works and Public Housing.
+    In addition, on those two versions, I introduced uniformity of user interface and user experience to make it easier for users to use applications made by NPPA.
+    Then, I also initiated a friendly system for disabled persons regarding appearance and use.
 
 - project: Predicting Graffiti Using City Layout
   role: Data Analyst
   duration: Sep 2021 &mdash; Oct 2021
-  associated: University of Helsinki
+  associated: MSc. Data Science, University of Helsinki
+  skills: Python
   url: "https://cowkeyman.github.io/PredictingGraffitiUsingCityLayouts/"
   description: This project analyzes what city properties correlate with graffiti generation in Vancouver, CA.
     This project consists of three people.
-    My task on this project was to explore the relationship and correlation between variables so that we can focus on the causes of graffiti further.
-
+    My responsibility in this project was to explore the relationship and correlation between variables so that we could focus on the causes of graffiti further.
