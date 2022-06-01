@@ -1,4 +1,5 @@
 # Jobs
+
 # Product Manager
 - company: National Public Procurement Agency of Indonesia (NPPA)
   position: Product Manager
@@ -11,7 +12,22 @@
     <li>Planned, managed, led, and monitored end-to-end development lifecycle by working closely with the system analyst, programmers, operation, quality assurance and control application, technical writer, UI/UX, and helpdesk team</li>
     <li>Gathered and analyzed user requirements of e-procurement applications from stakeholders, which are vendors and government employees in procurement</li>
     <li>Translated user requirements, especially requirements derived from regulations, into executable work items like Product Requirement Documents on JIRA or Gitlab Board</li><li>Discussed, groomed, and assessed products continuously through direct engagement with stakeholders to understand their needs</li>
-    <li>Queried and analyzed product data to gain insights regarding products that need to be improved</li><li><b>Projects</b> SIKaP (Vendor Management System), Centrum (Non-Vendor Management System), LPSE Support (Customer Relationship Management), DCE (Data Collection Engine & Procurement Dashboard), ISB (Procurement’s API Gateway), and Inaproc (National Procurement Website)</li></ul>
+    <li><b>Projects</b> SIKaP (Vendor Management System), Centrum (Non-Vendor Management System), LPSE Support (Customer Relationship Management), DCE (Data Collection Engine & Procurement Dashboard), ISB (Procurement’s API Gateway), and Inaproc (National Procurement Website)</li></ul>
+
+# Data Analyst
+- company: National Public Procurement Agency of Indonesia (NPPA)
+  position: Data Analyst
+  duration: Jan, 2018 &mdash; Dec, 2021
+  summary: I was a data analyst of the e-procurement applications.
+    I have queried, analyzed, and visualized data for four years to evaluate and improve the quality of existing products. Furthermore, my responsibilities were as follows
+    <ul class="resume-item-list">
+    <li>Used an analytical method to analyze patterns, behaviors, and opportunities in a complicated and huge number of procurement data</li>
+    <li>Did pre-processing huge and complex procurement data on database level</li>
+    <li>Queried and analyzed product data to gain insights regarding products that need to be improved</li>
+    <li>Conducted quantitative analysis to solve business problems</li>
+    <li>Delivered insight and recommendations to the upper management based on finding from the data</li>
+    <li><b>Projects</b> DCE (PostgreSQL), Analyzing Annual Performance Evaluation (R Language), SIKaP (PostgreSQL), LPSE Support (MariaDB), and Inaproc (MariaDB)</li></ul>
+
 
 # IT Helpdesk Analyst
 - company: National Public Procurement Agency of Indonesia (NPPA)
@@ -31,4 +47,6 @@
     <ul class="resume-item-list">
     <li>Gathered and analyzed clients' business process requirements to match system objectives</li>
     <li>Managed teams that consisted of developers, operations, technical writers, and application testers teams.</li>
+    <li>Queried and analyzed client's data and giving insight to the clients</li>
+    <li>Created a stored procedure</li>
     <li><b>Projects</b> iPorts (Pelindo IV) and Financial Quarterly Report (SKK Migas)</li></ul>

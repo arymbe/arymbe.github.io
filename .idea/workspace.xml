@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="132a8e21-5449-417e-aee9-d7226f7f3e07" name="Default Changelist" comment="third commit!">
-      <change beforePath="$PROJECT_DIR$/_site/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/_site/CNAME" afterDir="false" />
+    <list default="true" id="132a8e21-5449-417e-aee9-d7226f7f3e07" name="Default Changelist" comment="Projects">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/experience.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/experience.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,10 @@
       <option name="presentableId" value="Default" />
       <updated>1653821772040</updated>
       <workItem from="1653821773516" duration="101000" />
-      <workItem from="1653822034522" duration="4507000" />
+      <workItem from="1653822034522" duration="6221000" />
+      <workItem from="1653891384719" duration="16117000" />
+      <workItem from="1654057292740" duration="114000" />
+      <workItem from="1654057577059" duration="1936000" />
     </task>
     <task id="LOCAL-00001" summary="second commit!">
       <created>1653824889846</created>
@@ -55,7 +62,70 @@
       <option name="project" value="LOCAL" />
       <updated>1653827108749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="remove cname!">
+      <created>1653827153243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653827153243</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove cname!">
+      <created>1653827618774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653827618774</updated>
+    </task>
+    <task id="LOCAL-00005" summary="website fixing!">
+      <created>1653827708922</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653827708922</updated>
+    </task>
+    <task id="LOCAL-00006" summary="config.yml fixing!">
+      <created>1653827806095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653827806095</updated>
+    </task>
+    <task id="LOCAL-00007" summary="footer">
+      <created>1653892258050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653892258050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Education, experience, recognition, and projects">
+      <created>1653901235296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653901235296</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Projects">
+      <created>1653908642122</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653908642122</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Projects">
+      <created>1653934103559</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934103559</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Projects">
+      <created>1653937201184</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653937201184</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,11 +141,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="second commit!" />
     <MESSAGE value="third commit!" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit!" />
+    <MESSAGE value="remove cname!" />
+    <MESSAGE value="website fixing!" />
+    <MESSAGE value="config.yml fixing!" />
+    <MESSAGE value="footer" />
+    <MESSAGE value="Education, experience, recognition, and projects" />
+    <MESSAGE value="Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects" />
   </component>
 </project>

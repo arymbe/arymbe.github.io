@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ari Barkhah"
-resume_title:                   "Product Manager"
+resume_title:                   "Product Manager & Jr. Data Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ari.barkhah@gmail.com"
@@ -23,7 +23,11 @@ resume_contact_address:         "Jakarta, Indonesia"
 resume_header_contact_info:     "Jakarta, Indonesia • +62 812 9688 8998 • ari.barkhah@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p align=justify>I am a product manager with more than five years of experience. I have led more than six challenging products as a Product Manager. Apart from that, I also performed queries and analyses to gain insights into the parts that could be improved. My experience includes e-procurement, e-marketplace, and e-commerce area. I am looking for opportunities to help a tech company reach its goals and deepen my skills while working.</p>"
+resume_header_intro: "<p align=justify>As a <b>product manager</b>, I have led more than <b>six challenging products</b>.
+  My experience includes in <b>e-procurement</b>, <b>e-marketplace</b>, and <b>e-commerce</b> area.
+  Apart from that, as a <b>data analyst</b>, I have <b>queried</b>, <b>analyzed</b>, and <b>visualized</b> data for six years to <b>evaluate</b> and <b>improve</b> the quality of existing <b>products</b>.
+  Moreover, I have been <b>modeling</b> and <b>predicting</b> projects since I took my master's.
+  I am looking for <b>opportunities</b> to <b>help</b> a tech <b>company</b> <b>reach</b> its <b>goals</b> and <b>deepen my skills</b> while working as a <b>product manager</b> or <b>data scientist</b>.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
