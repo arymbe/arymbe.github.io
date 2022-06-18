@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="132a8e21-5449-417e-aee9-d7226f7f3e07" name="Default Changelist" comment="Projects">
+    <list default="true" id="132a8e21-5449-417e-aee9-d7226f7f3e07" name="Default Changelist" comment="experience">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/experience.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/experience.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,8 @@
       <workItem from="1653822034522" duration="6221000" />
       <workItem from="1653891384719" duration="16117000" />
       <workItem from="1654057292740" duration="114000" />
-      <workItem from="1654057577059" duration="1936000" />
+      <workItem from="1654057577059" duration="2549000" />
+      <workItem from="1655537723020" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="second commit!">
       <created>1653824889846</created>
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653937201184</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="experience">
+      <created>1654082714477</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654082714477</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +159,7 @@
     <MESSAGE value="footer" />
     <MESSAGE value="Education, experience, recognition, and projects" />
     <MESSAGE value="Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects" />
+    <MESSAGE value="experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="experience" />
   </component>
 </project>
