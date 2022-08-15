@@ -1,16 +1,16 @@
 # Jobs
 
 # Jr. Data Scientist
-- company: FlavorWiki
-  position: Jr. Data Scientist
-  duration: Jun, 2022 &mdash; Present
-  summary: I am a junior data scientist at FlavorWiki.
-    I am working closely with Consumer Scientist for marketing data.
-    Furthermore, my responsibilities are as follows
-    <ul class="resume-item-list">
-    <li>Managing user acquisition data for marketing, such as user profile data analysis, user history, and fraud prevention</li>
-    <li>Supporting customer scientist in terms of data analysis, such as running ad-hoc statistical analysis and design of custom statistical tools</li>
-    <li>Providing analysis and data visualization in a business context</li>
+#- company: FlavorWiki
+#  position: Jr. Data Scientist
+#  duration: Jun, 2022 &mdash; Present
+#  summary: I am a junior data scientist at FlavorWiki.
+#    I am working closely with Consumer Scientist for marketing data.
+#    Furthermore, my responsibilities are as follows
+##    <ul class="resume-item-list">
+#    <li>Managing user acquisition data for marketing, such as user profile data analysis, user history, and fraud prevention</li>
+#    <li>Supporting customer scientist in terms of data analysis, such as running ad-hoc statistical analysis and design of custom statistical tools</li>
+#    <li>Providing analysis and data visualization in a business context</li>
 
 # Product Manager
 - company: National Public Procurement Agency of Indonesia (NPPA)
