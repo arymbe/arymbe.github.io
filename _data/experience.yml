@@ -1,137 +1,64 @@
-- company: Blibli.com
-  position: Product Manager
-  duration: Jul 2022 - Apr 2024
-  location: Jakarta, Indonesia (Hybrid)
-  summary: |
-    As a Product Manager, I managed the full product lifecycle for SIPLah Blibli, from seller registration to overseeing transactions, payment settlements, and reconciliations. I worked with banking partners to introduce new payment channels, ensured financial processes and tax compliance, and collaborated with the data team to improve the user experience. My SEO efforts helped increase the platform's visibility.
-  responsibilities:
-    - Successfully launched SIPLah Blibli's first streams by January 2024.
-    - Managed the full product lifecycle, from seller registration to overseeing transactions and reconciliations.
-    - Worked with banking partners to introduce new payment channels, ensuring tax compliance.
-    - Led SEO efforts to improve platform visibility, helping SIPLah Blibli rank higher than competitors.
-    - Collaborated closely with the data team to develop features driven by data insights to improve user experience and business growth.
-  skills:
-    - Product Management
-    - Data-driven Decision Making
-    - Agile Methodologies
-    - Stakeholder Management
-    - E-Commerce
+# Jobs
 
+ Jr. Data Scientist
 - company: FlavorWiki
-  position: Junior Data Scientist
-  duration: Jun 2022 - Dec 2022
-  location: Helsinki, Uusimaa, Finland (Remote)
-  summary: |
-    As a Junior Data Scientist, I analyzed and reported on survey data from both client projects and internal research initiatives. My role also involved developing custom statistical tools for analyzing complex datasets, which included sensory analytics, audience segmentation, and predictive modeling. My insights helped clients better understand their product and user base.
-  responsibilities:
-    - Analyzed and reported on survey data for client projects and internal research.
-    - Designed and ran custom statistical tools for sensory analytics and predictive modeling.
-    - Identified key trends and patterns in user acquisition data, providing actionable insights to clients.
-  skills:
-    - SQL
-    - R (Programming Language)
-    - Google Data Studio
-    - Python (Programming Language)
-    - RStudio
+  position: Jr. Data Scientist
+  duration: Jun, 2022 &mdash; Present
+  summary: I am a junior data scientist at FlavorWiki.
+    I am working closely with Consumer Scientist for marketing data.
+    Furthermore, my responsibilities are as follows
+    <ul class="resume-item-list">
+    <li>Managing user acquisition data for marketing, such as user profile data analysis, user history, and fraud prevention</li>
+    <li>Supporting customer scientist in terms of data analysis, such as running ad-hoc statistical analysis and design of custom statistical tools</li>
+    <li>Providing analysis and data visualization in a business context</li>
 
+# Product Manager
 - company: National Public Procurement Agency of Indonesia (NPPA)
   position: Product Manager
-  duration: Jan 2018 - Dec 2021
-  location: Jakarta, Indonesia
-  summary: |
-    As a Product Manager at LKPP, I led the development and success of several e-procurement support applications, overseeing the entire product lifecycle. I managed more than six challenging products, including gathering requirements from stakeholders and creating product plans. My efforts ensured these projects aligned with the government's vision and market opportunities.
-  responsibilities:
-    - Managed the development of more than six e-procurement support products.
-    - Defined, measured, and analyzed key metrics to inform product success.
-    - Created product plans, including roadmaps, based on government vision and market opportunities.
-    - Gathered user requirements from stakeholders, including government employees and vendors, and translated them into executable work items.
-    - Led cross-functional teams throughout the end-to-end product development lifecycle.
-  projects:
-    - SIKaP (Vendor Management System)
-    - Centrum (Non-Vendor Management System)
-    - LPSE Support (Customer Relationship Management)
-    - DCE (Procurement Dashboard)
-    - ISB (API Gateway)
-    - Inaproc (National Procurement Website)
-  skills:
-    - Product Management
-    - Stakeholder Engagement
-    - Data Analysis
-    - Agile Methodologies
+  duration: Jan, 2018 &mdash; Des, 2021
+  summary: I was a product manager of the e-procurement support applications.
+    I have been involved in more than six challenging products for four years. Furthermore, my responsibilities were as follows
+    <ul class="resume-item-list">
+    <li>Defined, measured, and analyzed key metrics that informed product success</li>
+    <li>Created product plans, including its roadmap, measurement, prioritization, and deliverables based on government vision and market opportunity</li>
+    <li>Planned, managed, led, and monitored end-to-end development lifecycle by working closely with the system analyst, programmers, operation, quality assurance and control application, technical writer, UI/UX, and helpdesk team</li>
+    <li>Gathered and analyzed user requirements of e-procurement applications from stakeholders, which are vendors and government employees in procurement</li>
+    <li>Translated user requirements, especially requirements derived from regulations, into executable work items like Product Requirement Documents on JIRA or Gitlab Board</li><li>Discussed, groomed, and assessed products continuously through direct engagement with stakeholders to understand their needs</li>
+    <li><b>Projects</b> SIKaP (Vendor Management System), Centrum (Non-Vendor Management System), LPSE Support (Customer Relationship Management), DCE (Data Collection Engine & Procurement Dashboard), ISB (Procurement’s API Gateway), and Inaproc (National Procurement Website)</li></ul>
 
+# Data Analyst
 - company: National Public Procurement Agency of Indonesia (NPPA)
   position: Data Analyst
-  duration: Jan 2018 - Dec 2021
-  location: Jakarta, Indonesia
-  summary: |
-    As a Data Analyst, I applied analytical methods to identify patterns, behaviors, and opportunities within procurement datasets. I worked with large datasets, preprocessing data at the database level, querying, and providing insights to upper management, aiding in data-driven decision-making.
-  responsibilities:
-    - Analyzed complex procurement data to identify growth opportunities and bottlenecks.
-    - Preprocessed data at the database level using SQL and R.
-    - Delivered quantitative analysis to solve business problems and drive success.
-    - Provided data-driven insights and recommendations to upper management.
-  projects:
-    - DCE (PostgreSQL)
-    - Analyzing Annual Performance Evaluation (R Language)
-    - SIKaP (PostgreSQL)
-    - LPSE Support (MariaDB)
-    - Inaproc (MariaDB)
-  skills:
-    - SQL
-    - R (Programming Language)
-    - PostgreSQL
-    - MariaDB
-    - Data Analysis
+  duration: Jan, 2018 &mdash; Dec, 2021
+  summary: I was a data analyst of the e-procurement applications.
+    I have queried, analyzed, and visualized data for four years to evaluate and improve the quality of existing products. Furthermore, my responsibilities were as follows
+    <ul class="resume-item-list">
+    <li>Used an analytical method to analyze patterns, behaviors, and opportunities in a complicated and huge number of procurement data</li>
+    <li>Did pre-processing huge and complex procurement data on database level</li>
+    <li>Queried and analyzed product data to gain insights regarding products that need to be improved</li>
+    <li>Conducted quantitative analysis to solve business problems</li>
+    <li>Delivered insight and recommendations to the upper management based on finding from the data</li>
+    <li><b>Projects</b> DCE (PostgreSQL), Analyzing Annual Performance Evaluation (R Language), SIKaP (PostgreSQL), LPSE Support (MariaDB), and Inaproc (MariaDB)</li></ul>
 
+
+# IT Helpdesk Analyst
 - company: National Public Procurement Agency of Indonesia (NPPA)
   position: IT Helpdesk Analyst
-  duration: Apr 2017 - Dec 2017
-  location: Jakarta, Indonesia
-  summary: |
-    As an IT Helpdesk Analyst, I supported the e-procurement system by resolving technical issues, analyzing data errors, and providing insights to upper management. I also participated in user acceptance testing and trained users on how to operate the system effectively.
-  responsibilities:
-    - Queried and analyzed data errors in the e-procurement system.
-    - Provided insights based on error analysis to upper management.
-    - Handled technical support tickets and resolved system issues.
-    - Conducted User Acceptance Testing (UAT) and trained end-users on system functionality.
-  skills:
-    - SQL
-    - Technical Support
-    - Data Analysis
-    - UAT
+  duration:  Apr, 2017 &mdash; Des, 2017
+  summary: I participated in e-procurement system, my responsibilities were as follows
+    <ul class="resume-item-list"><li>Queried and analyzed data errors in the e-procurement system</li>
+    <li>Provided an insight based on analysis to the upper management</li><li>Handled the ticket problem</li>
+    <li>Did a User Acceptance Test of the e-procurement system</li><li>Trained users using the e-procurement system</li></ul>
 
+
+# IT Business Analyst
 - company: PT Cinovasi Rekaprima
   position: IT Business Analyst
-  duration: Aug 2015 - Sep 2016
-  location: Jakarta, Indonesia
-  summary: |
-    As an IT Business Analyst, I played a critical role in two key projects, iPorts and Financial Quarterly Report (FQR). I gathered and analyzed clients' business requirements, queried and analyzed data, and created stored procedures to optimize business processes.
-  responsibilities:
-    - Gathered and analyzed clients' business process requirements to align with system objectives.
-    - Queried and analyzed client data to provide actionable insights.
-    - Created stored procedures to streamline and optimize key business processes.
-    - Participated in system integration testing and user acceptance testing to ensure successful project delivery.
-  projects:
-    - iPorts (Pelindo IV)
-    - Financial Quarterly Report (SKK Migas)
-  skills:
-    - SQL
-    - Business Analysis
-    - Stored Procedures
-    - System Integration Testing
-
-- company: PT Garuda Indonesia (Persero), Tbk
-  position: IT Strategy Intern
-  duration: Jul 2013 - Aug 2013
-  location: Cengkareng, Jakarta, Indonesia
-  summary: |
-    As an IT Strategy Intern, I developed a software solution to manage IT risk using the .NET Framework. I worked closely with the IT Strategy team to understand their requirements and provided a custom solution that addressed their needs.
-  responsibilities:
-    - Developed a software solution using .NET Framework to manage IT risk for the strategy division.
-    - Collaborated with the IT Strategy team to understand requirements and create tailored solutions.
-    - Gained experience in software development, project management, and risk management.
-  skills:
-    - .NET Framework
-    - Software Development
-    - Project Management
-    - Risk Management
+  duration:  Aug, 2015 &mdash; Sept, 2016
+  summary: I managed several projects, my responsibilities were as follows
+    <ul class="resume-item-list">
+    <li>Gathered and analyzed clients' business process requirements to match system objectives</li>
+    <li>Managed teams that consisted of developers, operations, technical writers, and application testers teams.</li>
+    <li>Queried and analyzed client's data and giving insight to the clients</li>
+    <li>Created a stored procedure</li>
+    <li><b>Projects</b> iPorts (Pelindo IV) and Financial Quarterly Report (SKK Migas)</li></ul>
